@@ -1,0 +1,21 @@
+{
+  "name": "@uuau99999/react-native-keyboard",
+  "version": "1.0",
+  "description": "an react native plugin which can handle keyboard",
+  "main": "RNKeyboard.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uuau99999/react-native-keyboard.git"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "keyboard"
+  ],
+  "author": "uuau99999 <uuau99999@gmail.com> (https://github.com/uuau99999)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uuau99999/react-native-keyboard/issues"
+  },
+  "homepage": "https://github.com/uuau99999/react-native-keyboard#readme"
+}
