@@ -1,6 +1,6 @@
 {
   "name": "@uuau99999/react-native-keyboard",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "an react native plugin which can handle keyboard",
   "main": "RNKeyboard.js",
   "repository": {

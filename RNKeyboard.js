@@ -1,4 +1,4 @@
 
-import { NativeModules } from 'react-native';
+var RNKeyboardModule = require('react-native').NativeModules.RNKeyboardModule;
 
-export default NativeModules.RNKeyboardModule;
+module.exports = RNKeyboardModule;
